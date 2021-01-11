@@ -1,0 +1,7 @@
+{
+  "logs": {
+    "deaths": "./logs/deaths.txt",
+    "kills": "./logs/kills.txt",
+    "wins": "./logs/wins.txt"
+  }
+}
