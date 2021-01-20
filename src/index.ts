@@ -1,5 +1,5 @@
 import config from 'config';
-import fs, { promises } from 'fs';
+import fs from 'fs';
 import dayjs from 'dayjs';
 
 import fastify from 'fastify';
